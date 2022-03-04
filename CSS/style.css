@@ -1,10 +1,10 @@
 
 @import url("https://fonts.googleapis.com/css?family=Lora:400,700|Roboto:300,400,700");
 
-@import url("components/avatar.css");
-@import url("components/banner.css");
-@import url("components/button.css");
-@import url("components/card.css");
+@import url("component/avatar.css");
+@import url("component/banner.css");
+@import url("component/button.css");
+@import url("component/card.css");
 
 
 body {
